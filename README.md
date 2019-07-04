@@ -20,7 +20,6 @@ Sometimes, we want our users to log in using their existing credentials from thi
 - Create a new database in sql server 
 - ConnectionStrings in Appsettings.json changes your connections
 
-#### Editor.md directory
 
 			 "ConnectionStrings": {
    					 "DefaultConnection": "Server=	(localdb)\\mssqllocaldb;Database=TestDb;Trusted_Connection=True;MultipleActiveResultSets=true"
