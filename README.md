@@ -1,7 +1,7 @@
 
 
 #### Authentication Using Google In ASP.NET Core
-#Introduction
+# Introduction
 Sometimes, we want our users to log in using their existing credentials from third-party applications, such as Facebook, Twitter, Google, and so on. In this article, we are going to look into authentication of an ASP.NET Core app using a Google account.
 
 # Prerequisites
